@@ -1,0 +1,15 @@
+# -*- mode: gitignore; -*-
+# Emacs related files
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Python related files
+__pycache__/
+*.py[cod]
+*$py.class
